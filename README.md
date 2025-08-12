@@ -8,8 +8,9 @@
 
 ## מחשבונים קיימים
 
-- [calc 1 - Basic](./calc 1 - basic) – מחשבון בסיסי עם HTML/JS  
-- [OOP Calculator](./oop-calculator) – מחשבון מבוסס מחלקה ב־JS  
+- [Calc 1 - Basic](./Calc1-basic) – מחשבון בסיסי עם HTML/JS  
+- [OOP Calculator](./oop-calculator) – מחשבון מבוסס מחלקה ב־JS
+(בתכנון)
 - [Geometry Calculator](./geometry-calculator) – חישובי שטחים לצורות גיאומטריות (בתכנון)
 
 ## כיצד להריץ
