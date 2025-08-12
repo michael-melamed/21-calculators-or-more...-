@@ -1,5 +1,4 @@
-# 21-calculators-or-more...-
-# תיק עבודות – מחשבונים
+# 21-calculators-or-more...-# תיק עבודות – מחשבונים
 
 ברוכים הבאים לתיק העבודות שלי בנושא מחשבונים שמדגימים עקרונות תכנות וארכיטקטורה שונים.
 
@@ -8,10 +7,9 @@
 
 ## מחשבונים קיימים
 
-- [Calc 1 - Basic](https://github.com/michael-melamed/21-calculators-or-more...-/tree/main/Calc%201-%20basic%20) – מחשבון בסיסי עם HTML/JS  
-- [OOP Calculator](./oop-calculator) – מחשבון מבוסס מחלקה ב־JS
-(בתכנון)
-- [Geometry Calculator](./geometry-calculator) – חישובי שטחים לצורות גיאומטריות (בתכנון)
+- [calc_1_Basic](https://github.com/michael-melamed/21-calculators-or-more...-/tree/main/Calc%201-%20basic%20) – מחשבון בסיסי עם HTML/JS  
+- [OOP Calculator](./oop-calculator) – מחשבון מבוסס מחלקה ב־JS  
+- [Calc_3_Geometry](https://github.com/michael-melamed/21-calculators-or-more...-/tree/main/Calc_3_Geometry) – חישובי שטחים לצורות גיאומטריות (בתכנון)
 
 ## כיצד להריץ
 בכל תיקייה יש קבצי HTML/JS שפותחים בדפדפן או הוראות שימוש בהתאם.
